@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 good!
+=======
+123
+abc
+>>>>>>> feature/practice_2
